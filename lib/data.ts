@@ -13,7 +13,7 @@ export const profileData = {
     malt: "https://www.malt.fr/profile/jeromedelsaux",
     collective: "https://www.collective.work/profile/jerome-delsaux",
     linkedin: "https://www.linkedin.com/in/jérôme-delsaux-1743b5124",
-    cv: "https://delsitconsutling.fr/CV-JD.pdf",
+    cv: "https://www.delsitconsulting.fr/CV-JD.pdf",
   },
   about: `Développeur avec plus de 15 ans d'expérience dans la conception, le développement et la modernisation de systèmes complexes dans des environnements exigeants et critiques.
  Expertise en technologies Java et JavaScript, avec une maîtrise des environnements cloud, des bases de données et des normes de sécurité applicatives (ex. PCI DSS).`,
